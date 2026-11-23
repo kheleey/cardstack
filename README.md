@@ -12,7 +12,7 @@
 
 ### Screenshots
 
-<table><tr><td align="center"><img src="screenshot-1.jpg" width="200" alt="Profile card"><br><sub>Profile card</sub></td><td align="center"><img src="screenshot-2.jpg" width="200" alt="Layout and colour menu"><br><sub>Layout and colour menu</sub></td><td align="center"><img src="screenshot-3.jpg" width="200" alt="Carousel layout, Blush & Rose Gold"><br><sub>Carousel layout, Blush & Rose Gold</sub></td></tr></table>
+<table><tr><td align="center"><img src="screenshot-1.jpg" width="200" alt="Profile card"><br><sub>Profile card</sub></td><td align="center"><img src="screenshot-2.jpg" width="200" alt="Layout and colour menu"><br><sub>Layout and colour menu</sub></td><td align="center"><img src="screenshot-3.jpg" width="200" alt="Carousel layout, Blush & Rose Gold"><br><sub>Carousel layout, Blush & Rose Gold</sub></td><td align="center"><img src="screenshot-4.jpg" width="200" alt="AI summary"><br><sub>AI summary</sub></td></tr></table>
 
 A formal, interactive CV presented as a stack of 3D cards. Flip through the cards for profile, experience, skills, projects, education and contact.
 
@@ -21,6 +21,8 @@ A formal, interactive CV presented as a stack of 3D cards. Flip through the card
 - Your choices are remembered between visits.
 
 ## ✦ AI summary
+
+<p align="center"><img src="ai-summary.gif" width="260" alt="The AI summary writing itself"></p>
 
 A short AI-written summary of the CV sits beside it, or behind the ✦ button on smaller screens. Out of the box it shows a sample (`aiSample`). To have an AI write it live from your CV, add a key to the `ai` settings in the `window.CV` block:
 
